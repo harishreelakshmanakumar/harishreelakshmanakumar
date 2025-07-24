@@ -1,107 +1,132 @@
-<h1 align="center">Hi 👋, I'm Harishree L G</h1>
+Absolutely! Here's your **complete, uniquely crafted, professional GitHub Profile README** – ready to copy and paste into your `README.md` file inside the `harishreelakshmanakumar` GitHub repository.
+
+---
+
+````markdown
+<h1 align="center">🚀 Harishree L G — Crafting Code, Creating Impact</h1>
+
 <p align="center">
-💻 Lead Software Engineer | 🚀 Full Stack & AI Developer | 🧠 Oracle & NVIDIA Certified | 👩‍💼 HR Manager @ Twincord Technologies Pvt. Ltd.
+Lead Software Engineer • AI Innovator • Full Stack Architect • Certified Oracle | NVIDIA | Infosys • HR Strategist @ Twincord Technologies
 </p>
 
 ---
 
-## 👩‍💼 Professional Summary
+## 🌟 Who Am I?
 
-I am a passionate and result-driven software engineer with proven experience in designing, developing, and deploying scalable web and AI-based solutions. I currently serve as the **Lead Software Engineer and HR Manager at Twincord Technologies Pvt. Ltd.**, where I manage both the engineering roadmap and talent strategy.
+```txt
+Driven by curiosity. Powered by code. Grounded in purpose.
+````
 
-With a strong academic foundation from **Kongu Engineering College**, hands-on industry exposure, and global certifications, I specialize in **full stack development, AI/ML, and cloud-based application design**.
+I’m Harishree — a technologist who thrives at the intersection of intelligent systems and impactful software. I believe in building **meaningful technology** that scales, solves, and simplifies.
 
----
-
-## 🛠️ Core Technologies
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+* 🏢 **Lead Software Engineer & HR Manager**, Twincord Technologies Pvt. Ltd.
+* 🎓 Master’s student in Computer Science @ Kongu Engineering College
+* 🌐 Oracle Certified | NVIDIA Certified | Infosys AI Certified
+* 🔭 Focus Areas: Full Stack Engineering, Deep Learning, Generative AI, Secure Cloud Apps
+* 🌱 Life Goal: To innovate, lead, and uplift through tech
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience Snapshot
 
-### 🚀 Twincord Technologies Pvt. Ltd.  
-**Lead Software Engineer & HR Manager**  
-*2024 – Present*  
-- Architected and led multiple full-stack and AI-based products from concept to deployment.  
-- Managed cross-functional teams across development and hiring workflows.  
-- Championed innovation, code quality, and agile practices within the engineering team.
+### 🚀 Twincord Technologies Pvt. Ltd.
 
-### 🧠 Infosys Springboard (Internship)  
-**AI Developer Intern – Autonomous Driving Systems**  
-*2024*  
-- Built a deep learning-based perception pipeline for autonomous vehicles using CNNs and Transformers.  
-- Enhanced accuracy through model tuning using PyTorch, TensorFlow, and OpenCV.
+**Lead Software Engineer & HR Manager**
+*2024 – Present*
 
----
+* Architected and led full-stack and AI-based solutions using modern tools and scalable architectures.
+* Led hiring, onboarding, and mentoring engineers to build a collaborative and high-performing team.
+* Oversaw product development from ideation to deployment across web and AI domains.
 
-## 🧪 Selected Projects
+### 🧠 Infosys Springboard
 
-### 🔹 Autonomous Driving Using Deep Learning  
-> Semantic segmentation and object detection system using CNNs, Transformers.  
-**Tech:** PyTorch, TensorFlow, OpenCV
+**AI Intern – Autonomous Driving Systems**
+*2024*
 
-### 🔹 Comprehensive Web Application Fuzzer  
-> Automated tool for detecting security flaws like SQLi and XSS in web apps.  
-**Tech:** Python, Flask, OWASP Libraries
-
-### 🔹 Inventory Management System  
-> Role-based inventory and sales management platform with real-time updates.  
-**Tech:** React.js, Node.js, MongoDB
-
-### 🔹 Smart Home Automation  
-> Bluetooth-based appliance control with secure device pairing.  
-**Tech:** Embedded C, Android, BLE
+* Developed an end-to-end perception system for autonomous vehicles using CNNs and Transformers.
+* Worked with tools like PyTorch, TensorFlow, and OpenCV for model training and inference optimization.
+* Gained practical exposure to applying deep learning in real-time decision-making systems.
 
 ---
 
-## 🏆 Achievements
+## 🧠 Tech Arsenal
 
-- 🥇 Winner – *"Metaverse"* Paper Presentation @ Quantum Fest 2023  
-- 🥇 Winner – *"Web Extension Fuzzer Tool for Security"* @ Quantum Fest 2024  
-
----
-
-## 📜 Certifications
-
-- 🧠 **Oracle AI Vector Search Certified Professional**  
-- 🌐 **Oracle APEX Cloud Developer Certified Professional**  
-- 🧪 **Fundamentals of Deep Learning** – NVIDIA DLI  
-- 🧠 **Artificial Intelligence Primer Certification** – Infosys Springboard  
-- 🤖 **Principles of Generative AI** – Infosys Springboard  
-- 🧠 Generative AI – GUVI  
-- 🐍 Python Zero to Hero – GUVI  
-- 🧠 Deep Learning – GUVI  
-- 🏭 Industry 4.0 & IIoT – NPTEL  
-- 🔄 Software Engineering & Agile Development – Infosys
+```txt
+Frontend     : React, HTML5, CSS3, Bootstrap  
+Backend      : Node.js, Express.js, Flask  
+Databases    : MongoDB, SQL, Oracle APEX  
+AI/ML        : TensorFlow, PyTorch, OpenCV, Scikit-Learn  
+Cloud        : Oracle Cloud, Heroku, Firebase  
+Tools & Dev  : GitHub, VS Code, Postman, Figma, Agile
+```
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Noteworthy Projects
+
+### 🔹 Autonomous Driving AI
+
+Built an end-to-end perception system for lane detection and object recognition using CNNs and segmentation networks.
+**Tech Stack:** PyTorch, TensorFlow, OpenCV
+
+### 🔹 Web Application Fuzzer
+
+An automated fuzzer that detects vulnerabilities like SQL Injection, XSS, and broken authentication.
+**Tech Stack:** Python, Flask, OWASP Libraries
+
+### 🔹 Inventory Management System
+
+A complete role-based inventory dashboard with real-time stock tracking and reporting.
+**Tech Stack:** React.js, Node.js, MongoDB
+
+### 🔹 Smart Home Automation
+
+A Bluetooth-based automation system to control home appliances securely using an Android app.
+**Tech Stack:** Embedded C, Android, Bluetooth
+
+---
+
+## 🏆 Achievements & Awards
+
+* 🥇 **Winner** – *“Metaverse” Paper Presentation*, Quantum Fest 2023
+* 🥇 **Winner** – *“Web Extension Fuzzer Tool for Security”*, Quantum Fest 2024
+* 🏅 **Promoted** – HR Manager & Lead Software Engineer at Twincord Technologies
+
+---
+
+## 📜 Global Certifications
+
+| Platform       | Certification                                              |
+| -------------- | ---------------------------------------------------------- |
+| **Oracle**     | Oracle AI Vector Search Certified Professional             |
+|                | Oracle APEX Cloud Developer Certified Professional         |
+| **NVIDIA DLI** | Fundamentals of Deep Learning                              |
+| **Infosys**    | Artificial Intelligence Primer Certification – Springboard |
+|                | Principles of Generative AI – Springboard                  |
+|                | Agile Software Engineering                                 |
+| **GUVI**       | Python Zero to Hero, Generative AI, Deep Learning          |
+| **NPTEL**      | Introduction to Industry 4.0 and IIoT                      |
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishreelakshmanakumar&show_icons=true&theme=radical" alt="Harishree's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harishreelakshmanakumar&show_icons=true&theme=dracula" alt="Harishree's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishreelakshmanakumar&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishreelakshmanakumar&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/harishree-lakshmanakumar-3b0b36292/)  
-- 📧 [Email](mailto:harishreelakshmanakumar@gmail.com)
+* 📧 Email: [harishreelakshmanakumar@gmail.com](mailto:harishreelakshmanakumar@gmail.com)
+* 🔗 LinkedIn: [linkedin.com/in/harishree-lakshmanakumar-3b0b36292](https://www.linkedin.com/in/harishree-lakshmanakumar-3b0b36292/)
+* 💼 GitHub: [github.com/harishreelakshmanakumar](https://github.com/harishreelakshmanakumar)
 
 ---
 
-<p align="center"><em>"Build boldly. Learn constantly. Lead with purpose."</em></p>
+<p align="center"><em>“Great engineers build more than software—they build legacies.”</em></p>
+```
+
