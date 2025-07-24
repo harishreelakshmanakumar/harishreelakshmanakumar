@@ -91,17 +91,8 @@ When I'm not coding, you'll find me presenting at tech fests, earning new certif
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishreelakshmanakumar&show_icons=true&theme=radical" alt="Harishree's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishreelakshmanakumar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishree-lakshmanakumar-3b0b36292/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishreelakshmanakumar@gmail.com)
