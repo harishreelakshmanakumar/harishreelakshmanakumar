@@ -78,25 +78,27 @@ When I'm not coding, you'll find me presenting at tech fests, earning new certif
 
 ## 📜 Certifications
 
-- 🧠 **Oracle AI Vector Search Certified Professional**  
-- 🌐 **Oracle APEX Cloud Developer Certified Professional**  
-- 🧪 **Fundamentals of Deep Learning** – NVIDIA DLI  
+- 🛡️ **Fortinet Certified Fundamentals in Cybersecurity (2025)**  
+- 🧠 **Getting Started with Deep Learning – GUVI (2024)**  
+- 🟥 **Oracle AI Vector Search Certified Professional**  
+- 🟥 **Oracle APEX Cloud Developer Certified Professional**  
+- 🧪 **Fundamentals of Deep Learning – NVIDIA DLI**  
 - 🧠 **Artificial Intelligence Primer Certification** – Infosys Springboard  
 - 🤖 **Principles of Generative AI** – Infosys Springboard  
 - 🧠 Generative AI – GUVI  
 - 🐍 Python Zero to Hero – GUVI  
 - 🧠 Deep Learning – GUVI  
 - 🏭 Industry 4.0 & IIoT – NPTEL  
-- 🔄 Software Engineering & Agile Development – Infosys
+- 🔄 Software Engineering & Agile Development – Infosys  
+
+
 
 ---
-
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishree-lakshmanakumar-3b0b36292/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishreelakshmanakumar@gmail.com)
-
 
 ---
 
