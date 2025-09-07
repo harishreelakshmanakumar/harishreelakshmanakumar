@@ -101,7 +101,7 @@ When I'm not coding, you'll find me presenting at tech fests, earning new certif
 ---
 
 ## 📄 Resume  
-[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](Harishree_Resume.pdf)
+[![Resume](Harishree-Resume.pdf)
 
 ---
 
