@@ -102,7 +102,7 @@ When I'm not coding, you'll find me presenting at tech fests, earning new certif
 
 ## 📄 Resume  
 
-[![Resume](https://img.shields.io/badge/Resume-View%20Here-green)](https://github.com/harishreelakshmanakumar/harishreelakshmanakumar/blob/main/Harishree-resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-green)]([https://github.com/harishreelakshmanakumar/harishreelakshmanakumar/blob/main/Harishree-resume.pdf](https://github.com/harishreelakshmanakumar/harishreelakshmanakumar/commit/69ac56f3b4fe108a1c2218de9c18c9e330362a59))
 
 
 
