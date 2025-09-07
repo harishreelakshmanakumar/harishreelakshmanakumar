@@ -91,14 +91,17 @@ When I'm not coding, you'll find me presenting at tech fests, earning new certif
 - 🏭 Industry 4.0 & IIoT – NPTEL  
 - 🔄 Software Engineering & Agile Development – Infosys  
 
-
-
 ---
 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishree-lakshmanakumar-3b0b36292/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishreelakshmanakumar@gmail.com)
+
+---
+
+## 📄 Resume  
+[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](Harishree_Resume.pdf)
 
 ---
 
