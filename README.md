@@ -9,8 +9,6 @@
 
 Hey there! I'm Harishree — a builder at heart and a problem solver by passion. I love turning complex ideas into real-world software, especially when it involves web technology, artificial intelligence, or both.
 
-Right now, I’m wearing multiple hats at **Twincord Technologies Pvt. Ltd.**, where I lead engineering projects and also drive HR initiatives. It's a unique blend of tech and team building, and I enjoy every bit of it.
-
 Whether I’m developing full-stack applications, training deep learning models, or mentoring a new hire, my goal is the same: **create meaningful solutions and grow every day**.
 
 When I'm not coding, you'll find me presenting at tech fests, earning new certifications, or exploring what's next in AI and cloud.
@@ -99,12 +97,6 @@ When I'm not coding, you'll find me presenting at tech fests, earning new certif
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishreelakshmanakumar@gmail.com)
 
 ---
-
-## 📄 Resume  
-
-[![Resume](https://img.shields.io/badge/Resume-View%20Here-green)]([https://github.com/harishreelakshmanakumar/harishreelakshmanakumar/blob/main/Harishree-resume.pdf]
-
-
 ---
 
 <p align="center"><em>"Build boldly. Learn constantly. Lead with purpose."</em></p>
