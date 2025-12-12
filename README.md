@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harishree L G</h1>
+
 <p align="center">
 💻 Lead Software Engineer | 🚀 Full Stack & AI Developer | 🧠 Oracle & NVIDIA Certified | 👩‍💼 HR Manager @ Twincord Technologies Pvt. Ltd.
 </p>
@@ -7,11 +8,20 @@
 
 ## 🙋‍♀️ About Me
 
-Hey there! I'm Harishree — a builder at heart and a problem solver by passion. I love turning complex ideas into real-world software, especially when it involves web technology, artificial intelligence, or both.
+Hey there! I'm Harishree — a builder at heart and a problem solver by passion.  
+I love turning complex ideas into real-world software, especially when it involves **web technology, cloud, or artificial intelligence**.
 
-Whether I’m developing full-stack applications, training deep learning models, or mentoring a new hire, my goal is the same: **create meaningful solutions and grow every day**.
+From developing scalable full-stack systems to training deep learning models, or mentoring new hires as an HR Manager, I focus on one goal:
 
-When I'm not coding, you'll find me presenting at tech fests, earning new certifications, or exploring what's next in AI and cloud.
+👉 **Build meaningful solutions and grow every day.**
+
+When I’m not coding, I’m exploring cloud technologies, earning new certifications, or presenting at tech fests.
+
+---
+
+## 🌐 Personal Portfolio  
+Check out my hosted portfolio:  
+🔗 **http://harishree-portfolio.s3-website-us-east-1.amazonaws.com**
 
 ---
 
@@ -32,62 +42,70 @@ When I'm not coding, you'll find me presenting at tech fests, earning new certif
 
 ## 💼 Work Experience
 
-### 🚀 Twincord Technologies Pvt. Ltd.  
-**Lead Software Engineer & HR Manager**  
-*2025 – Present*  
-- Led the development of scalable AI-based and full-stack applications.  
-- Took charge of hiring, mentoring, and managing teams to deliver high-impact projects.  
-- Ensured code quality, agile practices, and innovation throughout the dev process.
+### 🚀 **Twincord Technologies Pvt. Ltd.**  
+**Lead Software Engineer**  
+*Jun 2025 – Present (7 months)*  
+- Leading development of scalable full-stack and AI-driven applications.  
+- Architecting system designs, ensuring quality, performance, and reliability.  
+- Driving innovation, mentoring team members, and enabling smooth project execution.  
 
-### 🧠 Infosys Springboard (Internship)  
-**AI Developer Intern – Autonomous Driving Systems**  
+**HR Manager**  
+*Jun 2025 – Nov 2025 (6 months)*  
+- Managed hiring, onboarding, and talent growth.  
+- Ensured team productivity, performance, and culture alignment.  
+- Coordinated cross-team communication and project staffing.
+
+---
+
+### 🧠 **Infosys Springboard – AI Developer Intern (Autonomous Driving)**  
 *2025*  
-- Built and trained models for lane detection and object recognition in self-driving cars.  
-- Used frameworks like PyTorch, TensorFlow, and OpenCV to improve model performance.
+- Developed lane detection and object recognition systems for self-driving applications.  
+- Used **PyTorch**, **TensorFlow**, and **OpenCV** to improve model accuracy and performance.
 
 ---
 
 ## 🧪 Selected Projects
 
 ### 🔹 Autonomous Driving Using Deep Learning  
-> Semantic segmentation and object detection system using CNNs, Transformers.  
+> Semantic segmentation & object detection using CNNs and Transformers.  
 **Tech:** PyTorch, TensorFlow, OpenCV
 
 ### 🔹 Comprehensive Web Application Fuzzer  
-> Automated tool for detecting security flaws like SQLi and XSS in web apps.  
-**Tech:** Python, Flask, OWASP Libraries
+> Automated tool for detecting vulnerabilities like SQLi & XSS.  
+**Tech:** Python, Flask, OWASP Security Libraries
 
 ### 🔹 Inventory Management System  
-> Role-based inventory and sales management platform with real-time updates.  
+> Role-based sales & stock management system with real-time updates.  
 **Tech:** React.js, Node.js, MongoDB
 
 ### 🔹 Smart Home Automation  
-> Bluetooth-based appliance control with secure device pairing.  
+> Secure BLE-controlled device automation system.  
 **Tech:** Embedded C, Android, BLE
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Winner – *"Metaverse"* Paper Presentation @ Quantum Fest 2023  
-- 🥇 Winner – *"Web Extension Fuzzer Tool for Security"* @ Quantum Fest 2024  
+- 🥇 Winner – *Metaverse Paper Presentation*, Quantum Fest 2023  
+- 🥇 Winner – *Web Extension Fuzzer Tool for Security*, Quantum Fest 2024  
 
 ---
 
 ## 📜 Certifications
 
+- ☁️ **AWS Certified Cloud Practitioner (2025)**  
 - 🛡️ **Fortinet Certified Fundamentals in Cybersecurity (2025)**  
 - 🧠 **Getting Started with Deep Learning – GUVI (2024)**  
 - 🟥 **Oracle AI Vector Search Certified Professional**  
 - 🟥 **Oracle APEX Cloud Developer Certified Professional**  
 - 🧪 **Fundamentals of Deep Learning – NVIDIA DLI**  
-- 🧠 **Artificial Intelligence Primer Certification** – Infosys Springboard  
-- 🤖 **Principles of Generative AI** – Infosys Springboard  
-- 🧠 Generative AI – GUVI  
-- 🐍 Python Zero to Hero – GUVI  
-- 🧠 Deep Learning – GUVI  
-- 🏭 Industry 4.0 & IIoT – NPTEL  
-- 🔄 Software Engineering & Agile Development – Infosys  
+- 🧠 **Artificial Intelligence Primer – Infosys Springboard**  
+- 🤖 **Principles of Generative AI – Infosys Springboard**  
+- 🧠 **Generative AI – GUVI**  
+- 🐍 **Python Zero to Hero – GUVI**  
+- 🧠 **Deep Learning – GUVI**  
+- 🏭 **Industry 4.0 & IIoT – NPTEL**  
+- 🔄 **Software Engineering & Agile Development – Infosys**  
 
 ---
 
@@ -96,7 +114,6 @@ When I'm not coding, you'll find me presenting at tech fests, earning new certif
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishree-lakshmanakumar-3b0b36292/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishreelakshmanakumar@gmail.com)
 
----
 ---
 
 <p align="center"><em>"Build boldly. Learn constantly. Lead with purpose."</em></p>
