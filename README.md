@@ -117,3 +117,12 @@ Check out my hosted portfolio:
 ---
 
 <p align="center"><em>"Build boldly. Learn constantly. Lead with purpose."</em></p>
+
+## 📊 GitHub Stats
+
+![Harishree's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishreelakshmanakumar&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishreelakshmanakumar&layout=compact)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,html,css,aws,docker" />
+</p>
