@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harishree L G</h1>
 
 <p align="center">
-💻 Lead Software Engineer | 🚀 Full Stack & AI Developer | 🧠 Oracle & NVIDIA Certified | 👩‍💼 HR Manager @ Twincord Technologies Pvt. Ltd.
+💻 Lead Software Engineer | 🚀 Full Stack & AI Developer | 🧠 Oracle ,AWS & NVIDIA Certified | 👩‍💼 HR Manager @ Twincord Technologies Pvt. Ltd.
 </p>
 
 ---
@@ -27,6 +27,7 @@ Check out my hosted portfolio:
 
 ## 🛠️ Core Technologies
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -118,11 +119,3 @@ Check out my hosted portfolio:
 
 <p align="center"><em>"Build boldly. Learn constantly. Lead with purpose."</em></p>
 
-## 📊 GitHub Stats
-
-![Harishree's GitHub stats](https://github-readme-stats.vercel.app/api?username=harishreelakshmanakumar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishreelakshmanakumar&layout=compact)
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,mongodb,html,css,aws,docker" />
-</p>
