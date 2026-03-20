@@ -68,11 +68,10 @@ Oracle APEX Cloud Developer Professional
 Fortinet Certified Fundamentals in Cybersecurity  
 Generative AI Certifications – Infosys, NVIDIA, GUVI  
 
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishree-lakshmanakumar-3b0b36292/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishreelakshmanakumar@gmail.com)
 
----
 
-<p align="center"><em>"Build boldly. Learn constantly. Lead with purpose."</em></p>
 
