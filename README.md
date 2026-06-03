@@ -22,12 +22,11 @@ http://harishree-portfolio.s3-website-us-east-1.amazonaws.com
 
 ## Technical Skills
 
-AI & Machine Learning: PyTorch, TensorFlow, CNN, Transformers, OpenCV, YOLOv8  
+AI & Machine Learning: PyTorch, TensorFlow, CNN,  OpenCV, YOLOv8  
 Programming: Python, JavaScript  
 Data Tools: NumPy, Pandas, Matplotlib  
 Web Development: React.js, Node.js, Express.js  
 Cloud & DevOps: AWS, Docker, Jenkins, Git  
-Concepts: RAG, Prompt Engineering, Edge AI, Model Optimization  
 
 ---
 
@@ -54,11 +53,7 @@ Smart Environmental Monitoring System
 - Developed dashboard using React and Node.js  
 - Deployment: https://hari-hotel-demo.netlify.app/
 
-Web Application Fuzzer  
-- Developed a tool to detect vulnerabilities such as SQL injection and XSS  
-- Built using Python and security testing techniques  
 
----
 
 ## Certifications
 
